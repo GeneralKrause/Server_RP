@@ -1,0 +1,25 @@
+"1"
+{
+	"Information"
+	{
+		"name"		"teletubbies_hl2mp"
+	}
+	"Entries"
+	{
+		"1"
+		{
+			"model" 	"models/player/tinkywinky_hl2mp_player/tinkywinky_hl2mp_player.mdl"
+		}
+		"2"
+		{
+			"model" 	"models/player/dipsy_hl2mp_player/dipsy_hl2mp_player.mdl"
+		}
+		"3"
+		{
+			"model" 	"models/player/laalaa_hl2mp_player/laalaa_hl2mp_player.mdl"
+		}
+		"4"
+		{
+			"model" 	"models/player/po_hl2mp_player/po_hl2mp_player.mdl"
+		}
+}

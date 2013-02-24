@@ -1,0 +1,16 @@
+
+"VertexLitGeneric"
+{
+$basetexture "Models/Zombie_police/facemap"
+$bumpmap "Models/Zombie_police/facemap_n"
+
+$phong "1"
+$phongboost ".25"
+$phongexponent "35"
+$phongtint "[1 1 1.35]"
+$phongfresnelranges "[1 1 10]"
+$ambientocclusion 1
+
+$detail "Models/Metrocop_shared/noise_detail_01"
+$detailscale 2
+}

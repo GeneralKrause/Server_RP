@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+$basetexture "models/HD_Barney/bmouth"
+$bumpmap "models/HD_Barney/bmouth_n"
+$model "1"
+$halflambert "1"
+$nodecal "1"
+$phong "1"
+$phongexponent "75"
+$phongboost "0.3"
+$phongfresnelranges  "[3 5 8]"
+$phongalbedotint "1"
+}

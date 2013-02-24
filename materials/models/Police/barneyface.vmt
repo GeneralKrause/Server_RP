@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+$basetexture "models/HD_Barney/barneyface"
+$bumpmap "models/HD_Barney/barney_head_normal"
+	"$nodecal" "1"
+}

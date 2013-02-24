@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+$baseTexture "Models/TF2police/Blurocop_sheet"
+$bumpmap "Models/TF2police/metrocop_sheet_normal"
+
+$phong "1"
+$phongexponent "20"
+$phongboost ".3"	
+$lightwarptexture "models/TF2police/lightwarp"
+$phongfresnelranges	"[2 1 5]"
+$halflambert "1"
+
+
+$rimlight "1"
+$rimlightexponent "4"
+$rimlightboost "2"	
+}

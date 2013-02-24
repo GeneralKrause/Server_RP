@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+$basetexture "Models/Shared/black"
+$lightwarptexture "models/TF2police/lightwarp"
+}

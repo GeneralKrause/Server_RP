@@ -1,0 +1,16 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$basetexture" "models/biopolice/W_IRifle"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/Weapons/W_IRifle/W_IRifle_normal"
+
+$phong 1
+$phongboost "2"
+$phongexponent "75"
+$phongtint "[.75 .75 1]"
+$phongfresnelranges "[1 1 3]"
+$ambientocclusion 1
+}
+
+

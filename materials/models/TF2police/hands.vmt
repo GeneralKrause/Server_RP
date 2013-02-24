@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+$baseTexture "Models/TF2police/gloves_r"
+$bumpmap "Models/Metrocop_shared/gloves_n"
+
+$phong "1"
+$phongexponent "15"
+$phongboost ".5"	
+$lightwarptexture "models/TF2police/lightwarp"
+$phongfresnelranges	"[2 1 5]"
+$halflambert "1"
+
+
+$rimlight "1"
+$rimlightexponent "4"
+$rimlightboost "2"
+}

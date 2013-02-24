@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+$baseTexture "Models/HD_Barney/barney_neck"
+$bumpmap "Models/HD_Barney/barney_neck_n"
+
+$phong 1
+$phongboost ".25"
+$phongexponent "4.45"
+$phongfresnelranges "[1 1 30]"
+$ambientocclusion 1
+
+}
